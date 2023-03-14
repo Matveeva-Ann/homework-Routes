@@ -1,0 +1,7 @@
+app/
+  components/
+     header.component
+  works/
+     cenzor.component
+     userslist.component
+     tasklist.component
